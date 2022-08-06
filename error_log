@@ -1,0 +1,1 @@
+[22-Sep-2020 12:36:09 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 411045888) (tried to allocate 402657280 bytes) in /home/winne4vg/smartgogame.com/application/controllers/Dashboard.php on line 1323
